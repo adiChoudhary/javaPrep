@@ -16,3 +16,6 @@ Repo to learn java day by day
 
 - Day 3 
   - solved problems on hackerrank for strings
+
+- Day 4
+  - solved problems on hackerrank for strings regex based
